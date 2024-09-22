@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">Learner!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssrokay&label=Profile%20views&color=0e75b6&style=flat" alt="itssrokay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahil&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil0994" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sahil" alt="Sahil0994" /></a> </p>
 
