@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">Learner!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahil0994&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil0994" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahil0994&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil" /> </p>
 
 - 🔭 I’m currently working on [New Projects)
 
