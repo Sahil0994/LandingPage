@@ -60,9 +60,9 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil&show_icons=true&locale=en&layout=compact" alt="Sahil0994" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil0994&show_icons=true&locale=en&layout=compact" alt="Sahil0994" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil&show_icons=true&locale=en" alt="Sahil0994" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil0994&show_icons=true&locale=en" alt="Sahil0994" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil&theme=dark" alt="Sahil0994" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil" alt="Sahil0994" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil0994&theme=dark" alt="Sahil0994" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil0994" alt="Sahil0994" /></p>
