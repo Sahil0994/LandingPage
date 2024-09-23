@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">Learner!!</h3>
+<!-- Typing SVG -->
+<p align ="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Enthusiast;Learner" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahil0994&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil" /> </p>
 
