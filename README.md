@@ -66,3 +66,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil0994&theme=dark" alt="Sahil0994" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil0994" alt="Sahil0994" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shubhhhGT/shubhhhGT/output/snake.svg" alt="Snake animation" />
+
+###
