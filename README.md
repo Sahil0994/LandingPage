@@ -8,12 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahil0994&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil" /> </p>
 
-- 🔭 I’m currently working on [Thinking....]
-
-- 🌱 I’m currently learning **React and Node JS**
-
-- 📫 How to reach me **9029sahilm@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sahil-mehta02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-mehta02/" height="30" width="40" /></a>
